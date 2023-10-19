@@ -1,0 +1,47 @@
+name,date,height,weight,Source,IQ
+Jack Smith,4/1/2019,185,91,CSVtest.csv,
+Jack Black,4/2/2019,183,91,CSVtest.csv,
+Brock Bricks,4/10/2019,185,95,CSVtest2.csv,
+Jack Brack,6/7/2019,172,91,CSVtest2.csv,
+Brock Bricks,4/10/2019,185,95,CSVtest2_daffy.csv,8
+Jack Brack,6/7/2019,172,91,CSVtest2_daffy.csv,9
+Daffy Duck,10/17/2023,90,35,CSVtest2_daffy.csv,10
+Jack Smith,4/1/2019,185,91,CSVtest_scott.csv,
+Jack Black,4/2/2019,183,91,CSVtest_scott.csv,
+Scott Wardle,10/17/2023,190,59,CSVtest_scott.csv,
+Jack Smith,4/1/2019,185,91,NewCombinedFile_2023-10-15.csv,
+Jack Black,4/2/2019,183,91,NewCombinedFile_2023-10-15.csv,
+Brock Bricks,4/10/2019,185,95,NewCombinedFile_2023-10-15.csv,
+Jack Brack,6/7/2019,172,91,NewCombinedFile_2023-10-15.csv,
+Jen Smith,2019-05-02 00:00:00,153,50,NewCombinedFile_2023-10-15.csv,
+Sam Smith,2019-01-02 00:00:00,160,55,NewCombinedFile_2023-10-15.csv,
+Rock Royden,2019-05-02 00:00:00,160,52,NewCombinedFile_2023-10-15.csv,
+Brandon Snads,2019-10-02 00:00:00,175,80,NewCombinedFile_2023-10-15.csv,
+Jane Smith,09/02/2019,170,75,NewCombinedFile_2023-10-15.csv,
+Jane Jackson,09/03/2019,172,74,NewCombinedFile_2023-10-15.csv,
+Becky Jackson,04/03/2019,165,70,NewCombinedFile_2023-10-15.csv,
+John Smith,02/08/2019,180,100,NewCombinedFile_2023-10-15.csv,
+John Smithe,03/08/2019,185,101,NewCombinedFile_2023-10-15.csv,
+Brett Smithe,05/08/2019,179,99,NewCombinedFile_2023-10-15.csv,
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtest.xlsx,
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtest.xlsx,
+Rock Royden,2019-05-02 00:00:00,160,52,EXCELtest2.xlsx,
+Brandon Snads,2019-10-02 00:00:00,175,80,EXCELtest2.xlsx,
+Rock Royden,2019-05-02 00:00:00,160,52,EXCELtest2_mickey.xlsx,6
+Brandon Snads,2019-10-02 00:00:00,175,80,EXCELtest2_mickey.xlsx,9
+Mickey Mouse,2023-10-17 00:00:00,6,5,EXCELtest2_mickey.xlsx,100
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtest_scott.xlsx,
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtest_scott.xlsx,
+Scott Wardle,2023-10-17 00:00:00,170,25,EXCELtest_scott.xlsx,
+Jane Smith,09/02/2019,170,75,JSONtest.json,
+Jane Jackson,09/03/2019,172,74,JSONtest2.json,
+Michael Jackson,09/03/2019,172,74,JSONtest2_michael.json,
+Becky Jackson,04/03/2019,165,70,JSONtest3.json,
+Becky Jackson,04/03/2019,165,70,JSONtest3_IQ.json,100.0
+Jane Doe,09/02/2019,170,75,JSONtest_doe.json,
+John Smith,02/08/2019,180,100,XMLtest.xml,
+John Smithe,03/08/2019,185,101,XMLtest2.xml,
+John Smithson,03/08/2019,285,101,XMLtest2_scott.xml,
+Brett Smithe,05/08/2019,179,99,XMLtest3.xml,
+Brett Smithey,05/08/2019,179,99,XMLtest3_IQ.xml,50
+John Smithfield,02/08/2023,180,100,XMLtest_scott.xml,
